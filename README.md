@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python and Data Structures**
 
-- 👨‍💻 All of my projects are available at [https://kpeddakotla.wixsite.com/kppekostudios](https://kpeddakotla.wixsite.com/kppekostudios)
+- 👨‍💻 All of my projects are available at [https://kpeddakotla.github.io/](https://kpeddakotla.github.io/)
 
 - 💬 Ask me about **my creative endeavors!**
 
