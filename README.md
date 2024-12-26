@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **my creative endeavors!**
 
-- 📫 How to reach me **kpeddakotla@gmail.com OR kpeddako@purdue.edu**
+- 📫 How to reach me **kpeddakotla@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/kpeddakotla/resume](https://github.com/kpeddakotla/resume)
 
