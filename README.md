@@ -12,12 +12,19 @@
 - 📄 Learn more about my professional experience and projects [here](https://github.com/kpeddakotla/resume).
 
 - ⚡ Fun fact: **I'm passionate about philosophy and its intersection with technology!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/just_kushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="just_kushal" height="30" width="40" /></a>
-<a href="https://instagram.com/just_kushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="just_kushal" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/kushal-peddakotla/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kushal Peddakotla" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/just_kushal" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="just_kushal" height="30" width="40" />
+  </a>
+  <a href="mailto:kpeddakotla@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="kpeddakotla@gmail.com" height="30" width="40" />
+  </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -27,9 +34,6 @@
   <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/TensorFlow_logo.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
   <a href="https://www.pytorch.org" target="_blank" rel="noreferrer"> 
     <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="pytorch" width="40" height="40"/> 
   </a> 
